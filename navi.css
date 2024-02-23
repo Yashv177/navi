@@ -78,7 +78,7 @@ header .search{
 }
 .searchBox{
     position: absolute;
-    display:none;
+    display: none;
     right: -100%;
     width: 100%;
     height: 100%;
@@ -99,7 +99,7 @@ header .search{
     font-size: 1.25em;
     background: #fff;
     border-bottom: 1px solid rgba(0, 0, 0, 0.5);
-    display:none;
+    display: none;
 }
 .searchBtn{
     position: relative;
